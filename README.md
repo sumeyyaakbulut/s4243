@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an information systems engineering.
+- 🔭 I am an information systems engineering sophomore student.
 - 🌱 I’m currently learning making games with unity.
 - 👯 I’m looking to collaborate on multiplayer games.
 - 🤔 I’m looking for help with ...
